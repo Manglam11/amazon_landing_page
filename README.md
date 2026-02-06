@@ -8,8 +8,7 @@ This project recreates Amazon’s **navigation bar, search experience, and categ
 
 ## 🔗 Live Demo
 
-👉 **View Live Demo**  
-https://manglam11.github.io/your-project-name/
+👉 Click [here](https://manglam11.github.io/amazon_landing_page/)
 
 ---
 
